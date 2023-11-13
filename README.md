@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/KitasanYuu/About_KitaChan/blob/main/KitaImage/KitaKita1.jpg?raw=true" width="35%">
 
-#HARIKITTE IKOU!
+# HARIKITTE IKOU!
 
 我有很多名字，你可以叫我`Yuu Chan`、`北`、`北地侑`、`三重楪`
 或者是我的全名`KitasanYuu`
@@ -12,7 +12,7 @@
 
 
 ---
-#####目前工作环境:pencil2:
+##### 目前工作环境:pencil2:
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 [![CPU](https://img.shields.io/badge/Intel%20I9%2013900KF-0071C5?style=flat-square&logo=Intel&logoColor=white)](https://www.intel.cn/content/www/cn/zh/products/sku/230497/intel-core-i913900kf-processor-36m-cache-up-to-5-80-ghz/specifications.html)
@@ -22,17 +22,17 @@
 [![SC](https://img.shields.io/badge/Minifuse1-15C39A?style=flat-square&logo=arc&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600) [![MircoPhone](https://img.shields.io/badge/Maono%20PD200X-FF6600?style=flat-square&logo=monster&logoColor=white)](https://www.maono.com/products/maono-pd200x-dynamic-usb-and-xlr-internet-microphone) [![Headset](https://img.shields.io/badge/Hecate%20G4%20S%20Pro-2C3454?style=flat-square&logo=walkman&logoColor=white)](https://www.edifier.com/product/product-560.html)
 
 ---
-#####代码烂人，啥也不会:pencil2:
+##### 代码烂人，啥也不会:pencil2:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/CSS) ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=flat-square&logo=csharp&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white) ![PY](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white) ![PT](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white) ![ARK](https://img.shields.io/badge/ArkTS-000000.svg?style=flat-square&logo=harmonyos&logoColor=white)
 
 
-#####使用过的游戏引擎:pencil2:
+##### 使用过的游戏引擎:pencil2:
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=white) ![UR](https://img.shields.io/badge/UnrealEngine-0E1128.svg?style=flat-square&logo=unrealengine&logoColor=white)
 
 
 ---
-#####经常用的:pencil2:
+##### 经常用的:pencil2:
 ![GPT](https://img.shields.io/badge/GPT-412991.svg?style=flat-square&logo=openai&logoColor=white) ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white) ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=adobepremierepro&logoColor=white) ![AU](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat-square&logo=adobeaudition&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=white) ![DEV](https://img.shields.io/badge/DevEco%20Studio-2885F1.svg?style=flat-square&logo=harmonyos&logoColor=white) ![PC](https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=Pycharm&logoColor=white) ![Gol](https://img.shields.io/badge/GoLand-000000.svg?style=flat-square&logo=Goland&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white)
