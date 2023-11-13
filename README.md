@@ -7,7 +7,7 @@
 
 `KitasanYuu`的名字取自我**最喜欢**的角色北黑-[Kitasan Black(北部玄驹)](https://mzh.moegirl.org.cn/%E5%8C%97%E9%83%A8%E7%8E%84%E9%A9%B9)
 而名字的后半部分`Yuu`则取自北黑CV妃喵的另外一部作品
-[ラブライブ！虹ヶ咲学園スクールアイドル同好会](https://zh.moegirl.org.cn/LoveLive!%E8%99%B9%E5%92%B2%E5%AD%A6%E5%9B%AD%E5%AD%A6%E5%9B%AD%E5%81%B6%E5%83%8F%E5%90%8C%E5%A5%BD%E4%BC%9A)中的[Takasaki Yu(高咲侑)](https://zh.moegirl.org.cn/%E9%AB%98%E5%92%B2%E4%BE%91)，因为这两位都有一个共同点——经常把悸动(DokiDoki)挂在嘴边。~~所以一般都叫她们悸动战士。~~<br/>
+[ラブライブ！虹ヶ咲学園スクールアイドル同好会](https://zh.moegirl.org.cn/LoveLive!%E8%99%B9%E5%92%B2%E5%AD%A6%E5%9B%AD%E5%AD%A6%E5%9B%AD%E5%81%B6%E5%83%8F%E5%90%8C%E5%A5%BD%E4%BC%9A)中的[Takasaki Yu(高咲侑)](https://zh.moegirl.org.cn/%E9%AB%98%E5%92%B2%E4%BE%91)，因为这两位都有一个共同点——经常把悸动(DokiDoki)挂在嘴边。~~所以一般都叫她们悸动战士。~~<br>
 ~~这也算是种neta了吧xx~~
 
 
