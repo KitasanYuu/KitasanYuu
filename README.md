@@ -37,6 +37,8 @@
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=adobepremierepro&logoColor=white) ![AU](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat-square&logo=adobeaudition&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=white) ![DEV](https://img.shields.io/badge/DevEco%20Studio-2885F1.svg?style=flat-square&logo=harmonyos&logoColor=white) ![PC](https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=Pycharm&logoColor=white) ![Gol](https://img.shields.io/badge/GoLand-000000.svg?style=flat-square&logo=Goland&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white)
 
+---
+
 <details>
 <summary>来讲讲为什么这么喜欢小北吧(胡言乱语)</summary>
 
