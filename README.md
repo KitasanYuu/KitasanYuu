@@ -22,7 +22,7 @@
 <br>[![SC](https://img.shields.io/badge/Arturia%20Minifuse1-15C39A?style=flat-square&logo=arc&logoColor=white)](https://www.arturia.com/products/audio/minifuse/minifuse1) [![MircoPhone](https://img.shields.io/badge/Maono%20PD200X-FF6600?style=flat-square&logo=monster&logoColor=white)](https://www.maono.com/products/maono-pd200x-dynamic-usb-and-xlr-internet-microphone) [![Headset](https://img.shields.io/badge/Hecate%20G4%20S%20Pro-2C3454?style=flat-square&logo=walkman&logoColor=white)](https://www.edifier.com/product/product-560.html)
 
 ---
-##### 代码烂人，啥也不会:pencil2:
+##### 虽然是代码烂人，但总要会点 :pencil2: (~~真的只是会一点点~~)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)               <br>
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=white) 
