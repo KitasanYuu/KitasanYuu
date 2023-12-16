@@ -12,7 +12,7 @@
 
 
 ---
-##### 目前工作环境:pencil2:
+##### 目前工作环境 :pencil2:
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 [![CPU](https://img.shields.io/badge/Intel%20I9%2013900KF-0071C5?style=flat-square&logo=Intel&logoColor=white)](https://www.intel.cn/content/www/cn/zh/products/sku/230497/intel-core-i913900kf-processor-36m-cache-up-to-5-80-ghz/specifications.html)
@@ -42,13 +42,13 @@
 ![ARK](https://img.shields.io/badge/ArkTS-000000.svg?style=flat-square&logo=harmonyos&logoColor=white)
 
 
-##### 使用过的游戏引擎:pencil2:
+##### 使用过的游戏引擎 :pencil2:
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=white) 
 ![UR](https://img.shields.io/badge/UnrealEngine-0E1128.svg?style=flat-square&logo=unrealengine&logoColor=white)
 
 
 ---
-##### 经常用的:pencil2:
+##### 经常用的 :pencil2:
 ![GPT](https://img.shields.io/badge/GPT-412991.svg?style=flat-square&logo=openai&logoColor=white) 
 ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white) 
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white) <br>
