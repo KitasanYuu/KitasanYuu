@@ -1,5 +1,4 @@
 <img align="right" src="KitaImage/KitaKita1.jpg" width="35%">
-
 # HARIKITTE IKOU!
 
 我有很多名字，你可以叫我`Yuu Chan`、`北`、`北地侑`、`三重楪` <br>
@@ -28,6 +27,8 @@
 [![Headset](https://img.shields.io/badge/Hecate%20G4%20S%20Pro-2C3454?style=flat-square&logo=walkman&logoColor=white)](https://www.edifier.com/product/product-560.html)
 
 ---
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KitasanYuu&bg_color=70,ec0f18,ce9643&title_color=fff&text_color=fff">
+
 ##### 虽然是代码烂人，但总要会点 :pencil2: (~~真的只是会一点点~~)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)               <br>
@@ -40,7 +41,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=fff)
 ![Js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white) 
 ![ARK](https://img.shields.io/badge/ArkTS-000000.svg?style=flat-square&logo=harmonyos&logoColor=white)
-
 
 ##### 使用过的游戏引擎 :pencil2:
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=white) 
