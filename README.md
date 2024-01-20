@@ -1,4 +1,4 @@
-<img align="right" src="KitaImage/KitaKita1.jpg" width="37%">
+<img align="right" src="KitaImage/KitaKita1.jpg" width="35%">
 # HARIKITTE IKOU!
 
 我有很多名字，你可以叫我`Yuu Chan`、`北`、`北地侑`、`三重楪` <br>
@@ -26,8 +26,10 @@
 [![MircoPhone](https://img.shields.io/badge/Maono%20PD200X-FF6600?style=flat-square&logo=monster&logoColor=white)](https://www.maono.com/products/maono-pd200x-dynamic-usb-and-xlr-internet-microphone) 
 [![Headset](https://img.shields.io/badge/Hecate%20G4%20S%20Pro-2C3454?style=flat-square&logo=walkman&logoColor=white)](https://www.edifier.com/product/product-560.html)
 
----
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KitasanYuu&bg_color=70,ec0f18,ce9643&title_color=fff&text_color=fff">
+
+---
+
 
 ##### 虽然是代码烂人，但总要会点 :pencil2: (~~真的只是会一点点~~)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML) 
