@@ -1,4 +1,4 @@
-<img align="right" src="KitaImage/KitaKita1.jpg" width="35%">
+<img align="right" src="KitaImage/KitaKita1.jpg" width="45%">
 # HARIKITTE IKOU!
 
 我有很多名字，你可以叫我`Yuu Chan`、`北`、`北地侑`、`三重楪` <br>
