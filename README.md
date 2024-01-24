@@ -13,19 +13,19 @@
 
 ---
 ##### 目前工作环境 :pencil2:
-[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
-
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11) <br>
 [![CPU](https://img.shields.io/badge/Intel%20I9%2013900KF-0071C5?style=flat-square&logo=Intel&logoColor=white)](https://www.intel.cn/content/www/cn/zh/products/sku/230497/intel-core-i913900kf-processor-36m-cache-up-to-5-80-ghz/specifications.html)
 [![GPU1](https://img.shields.io/badge/GeForce%20RTX%204090-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/40-series/rtx-4090/)
 
-[![Monitor](https://img.shields.io/badge/HKC%20TG34C3U-5F259F?style=flat-square&logo=shotcut&logoColor=white)](http://www.szhk.com.cn/index.php?case=archive&act=show&aid=465) 
-[![Mouse1](https://img.shields.io/badge/G%20PRO%20Wireless-00B8FC?style=flat-square&logo=logitech&logoColor=white)](https://www.logitechg.com/zh-cn/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005884.html?sp=1&searchclick=logi1) 
-[![Keyboard](https://img.shields.io/badge/GANSS%203104TLI-0049AB?style=flat-square&logo=gitee&logoColor=white)](https://www.ganss.cn/forum/post/334273/)<br>
-![Mouse2](https://img.shields.io/badge/VGN%20F1%20Moba-00B8FC?style=flat-square&logo=vitess&logoColor=white)
-![Keyboard2](https://img.shields.io/badge/VGN%20V87%20Pro%20Diana-00B8FC?style=flat-square&logo=vitess&logoColor=white)
+[![Monitor](https://img.shields.io/badge/HKC%20TG34C3U-5F259F?style=flat-square&logo=shotcut&logoColor=white)](http://www.szhk.com.cn/index.php?case=archive&act=show&aid=465) <br>
 [![SC](https://img.shields.io/badge/Arturia%20Minifuse1-15C39A?style=flat-square&logo=arc&logoColor=white)](https://www.arturia.com/products/audio/minifuse/minifuse1) 
 [![MircoPhone](https://img.shields.io/badge/Maono%20PD200X-FF6600?style=flat-square&logo=monster&logoColor=white)](https://www.maono.com/products/maono-pd200x-dynamic-usb-and-xlr-internet-microphone) 
-[![Headset](https://img.shields.io/badge/Hecate%20G4%20S%20Pro-2C3454?style=flat-square&logo=walkman&logoColor=white)](https://www.edifier.com/product/product-560.html)
+[![Headset](https://img.shields.io/badge/Hecate%20G4%20S%20Pro-2C3454?style=flat-square&logo=walkman&logoColor=white)](https://www.edifier.com/product/product-560.html)<br>
+[![Mouse1](https://img.shields.io/badge/G%20PRO%20Wireless-00B8FC?style=flat-square&logo=logitech&logoColor=white)](https://www.logitechg.com/zh-cn/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005884.html?sp=1&searchclick=logi1) 
+[![Keyboard](https://img.shields.io/badge/GANSS%203104TLI-0049AB?style=flat-square&logo=gitee&logoColor=white)](https://www.ganss.cn/forum/post/334273/)
+![Mouse2](https://img.shields.io/badge/VGN%20F1%20Moba-00B8FC?style=flat-square&logo=vitess&logoColor=white)
+![Keyboard2](https://img.shields.io/badge/VGN%20V87%20Pro%20Diana-00B8FC?style=flat-square&logo=vitess&logoColor=white)
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KitasanYuu&bg_color=70,ec0f18,ce9643&title_color=fff&text_color=fff">
 
