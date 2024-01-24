@@ -11,6 +11,7 @@
 ~~这也算是种neta了吧xx~~
 
 
+
 ---
 ##### 目前工作环境 :pencil2:
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11) <br>
@@ -22,12 +23,11 @@
 [![Keyboard](https://img.shields.io/badge/GANSS%203104TLI-0049AB?style=flat-square&logo=gitee&logoColor=white)](https://www.ganss.cn/forum/post/334273/)<br>
 ![Mouse2](https://img.shields.io/badge/VGN%20F1%20Moba-00B8FC?style=flat-square&logo=vitess&logoColor=white)
 ![Keyboard2](https://img.shields.io/badge/VGN%20V87%20Pro%20Diana-00B8FC?style=flat-square&logo=vitess&logoColor=white)<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KitasanYuu&bg_color=70,ec0f18,ce9643&title_color=fff&text_color=fff">
 [![SC](https://img.shields.io/badge/Arturia%20Minifuse1-15C39A?style=flat-square&logo=arc&logoColor=white)](https://www.arturia.com/products/audio/minifuse/minifuse1) 
 [![MircoPhone](https://img.shields.io/badge/Maono%20PD200X-FF6600?style=flat-square&logo=monster&logoColor=white)](https://www.maono.com/products/maono-pd200x-dynamic-usb-and-xlr-internet-microphone) 
 [![Headset](https://img.shields.io/badge/Hecate%20G4%20S%20Pro-2C3454?style=flat-square&logo=walkman&logoColor=white)](https://www.edifier.com/product/product-560.html)
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KitasanYuu&bg_color=70,ec0f18,ce9643&title_color=fff&text_color=fff">
 
 ---
 
