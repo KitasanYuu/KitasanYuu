@@ -10,6 +10,8 @@
 [ラブライブ！虹ヶ咲学園スクールアイドル同好会](https://zh.moegirl.org.cn/LoveLive!%E8%99%B9%E5%92%B2%E5%AD%A6%E5%9B%AD%E5%AD%A6%E5%9B%AD%E5%81%B6%E5%83%8F%E5%90%8C%E5%A5%BD%E4%BC%9A)中的[Takasaki Yu(高咲侑)](https://zh.moegirl.org.cn/%E9%AB%98%E5%92%B2%E4%BE%91)，因为这两位有一个共同点——经常把悸动(DokiDoki)挂在嘴边。~~所以一般都叫她们悸动战士。~~<br>
 ~~这也算是种neta了吧xx~~
 
+**喜欢开发有趣的游戏，但很可惜因为当前所在公司政策无法Public， ~~虽然以前开发的东西可以继续保留，但很遗憾无法进一步的研发xx~~，之后所有游戏有关的项目应该都会处于Private状态。**
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KitasanYuu&bg_color=70,ec0f18,ce9643&title_color=fff&text_color=fff" width="55%">
 
 ---
@@ -67,9 +69,9 @@
 
 ## 🌸想干的事
 * ~~想要成为游戏高手(Bushi)~~
-* 目前最想实现的愿望大概就是把毕设 `FIRM ICE` 搞搞好xx
+* ~~目前最想实现的愿望大概就是把毕设 `FIRM ICE` 搞搞好xx~~
 * 想要每周有一天能从头睡到晚xx
-* 毕业之后能够顺利进入游戏行业！
+* ~~毕业之后能够顺利进入游戏行业！~~
 ---
 
 <details>
